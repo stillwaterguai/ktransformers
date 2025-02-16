@@ -51,7 +51,7 @@ long_context:
   head_select_mode: SHARED
   preselect_block_count: 32
   layer_step: 1
-  token_step: 
+  token_step: 100
 
 local_chat:
   prompt_file: ""
